@@ -1,4 +1,4 @@
-# Dance Home page
+# Product Design Home page
 ### Things I learned in this mini project
 * Adding font family using Google font link.
 * Applying flexbox to div and set _"justify-content"_ and _"align-items"_ to get desired result.
