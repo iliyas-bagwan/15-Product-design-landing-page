@@ -7,6 +7,7 @@
 * Adding border radius.
 * setting svg image as background using absolute positioning in top, right corner.
 * Maintaining proportionality along different screen sizes  
+[Deployed Link](https://product-design-landing-page-clone.netlify.app/)
 
 
 ![thumbnail](thumb.png)
